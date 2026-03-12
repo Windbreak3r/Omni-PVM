@@ -1,0 +1,2 @@
+3DGS_match
+-DCATKIN_DEVEL_PREFIX=/home/dragonwu/GS_Loc/3DGS_match_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dragonwu/GS_Loc/3DGS_match_ws/install -G Unix Makefiles
